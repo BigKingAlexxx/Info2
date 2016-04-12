@@ -214,3 +214,7 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+*.sln
+Softwarelabor/Softwarelabor.VC.opendb
+*.vcxproj
+Softwarelabor/Softwarelabor/Softwarelabor.vcxproj.filters
